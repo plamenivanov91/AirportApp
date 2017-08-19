@@ -1,0 +1,25 @@
+{
+"frames": {
+	"militaryPlane.png": {
+		"frame": {"x":0, "y":183, "w":105, "h":96},
+		"spriteSourceSize": {"x":0,"y":0,"w":105,"h":96},
+		"sourceSize": {"w":105,"h":96}
+	},
+	"plane.png": {
+		"frame": {"x":0, "y":87, "w":115, "h":95},
+		"spriteSourceSize": {"x":0,"y":0,"w":115,"h":95},
+		"sourceSize": {"w":115,"h":95}
+	},
+	"pista.png": {
+		"frame": {"x":0, "y":0, "w":600, "h":86},
+		"spriteSourceSize": {"x":0,"y":0,"w":600,"h":86},
+		"sourceSize": {"w":600,"h":86}
+	}
+
+},
+"meta": {
+	"image": "sprites.png",
+	"size": {"w": 601, "h": 280},
+	"scale": "1"
+}
+}
